@@ -2,7 +2,6 @@
 ***trajectory_visualizer*** is an open source ROS package for visualize existing waypoints and platform's current trajectory.
 
 <img src="imgs/trajectory.png" width="712pix" />
-<<<<<<< HEAD
 
 <img src="imgs/waypoints.png" width="712pix" />
 
