@@ -1,0 +1,11 @@
+<launch>
+
+	<node pkg="trajectory_visualizer" type="visualizer" name="trajectory_visualizer_node" output="screen">
+		<param name="file_path" value="/home/woonghyun/data.csv" />
+		<param name="pose_x_offset" value="356400" />
+		<param name="pose_y_offset" value="4028800" />
+		<param name="waypoint_x_offset" value="302450" />
+		<param name="waypoint_y_offset" value="4123700" />
+	</node>
+
+</launch>
